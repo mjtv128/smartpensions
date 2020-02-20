@@ -2,6 +2,8 @@
  
 run ```rspec``` to test TDD 
 
+the code is written in test.rb
+the testing is written spec/test_spec.rb
 ---
 1. Write a program that:
 a. Receives a log file as an argument (webserver.log is provided) e.g.: ./<parse> webserver.log
