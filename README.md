@@ -3,6 +3,7 @@
 run ```rspec``` to test TDD 
 
 the code is written in test.rb
+
 the testing is written spec/test_spec.rb
 
 ---
